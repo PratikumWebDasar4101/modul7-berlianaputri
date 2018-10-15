@@ -15,6 +15,6 @@
 
 	mysqli_close($db);
 	echo "<br>";
-	echo "<a href = list.php>Lihat List Data";
+	echo "<a href = lihatdata.php>Lihat List Data";
 
 ?>
