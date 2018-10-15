@@ -32,7 +32,9 @@
 
 
 	mysqli_close($db);
-	}
-
-	
+	}	
 ?>
+	</tbody>
+</table>
+<br><br>
+<a href="lihatdata.php">Kembali</a>
